@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+body{
+  background: rgb(6,2,75);
+  background: radial-gradient(circle, rgba(6,2,75,1) 0%, rgba(9,9,121,1) 33%, rgba(0,212,255,1) 100%);
+}
+
+span{
+  font-weight: bold;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
